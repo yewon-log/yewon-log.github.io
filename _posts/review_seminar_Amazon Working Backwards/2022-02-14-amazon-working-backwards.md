@@ -1,5 +1,5 @@
 ---
-title: 아마존에서 일는 방식 : Working Backwards
+title : 아마존에서 일하는 방식 - Working Backwards
 date : 2022-02-14 12:00:00 +09:00
 tags : [working process]
 description : 아마존의 업무 방식인 working backwards에 대한 간단한 소개
